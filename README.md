@@ -7,8 +7,10 @@ One command. One continuous take. Every scene morphs out of the last, right on t
 
 <img src="docs/preview-glass.gif" width="720" alt="Glass letters spelling vibe pop over a showroom photo, melt into a glass toolbar that becomes a slider, and the slider relights the photo">
 
-<!-- To show the full film with a play button: edit this README on GitHub, drag
-     launch-film-github-1920x1080.mp4 (under 10 MB) onto this line, and commit. -->
+
+
+https://github.com/user-attachments/assets/1e15629a-7e12-4430-9dbf-b33fe3b78dd7
+
 
 </div>
 
