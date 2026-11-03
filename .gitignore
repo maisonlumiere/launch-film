@@ -1,0 +1,12 @@
+# your own brands and film history stay on your machine
+brands/*.json
+history/*.json
+
+# render output and downloads
+node_modules/
+films/
+qa/
+*.mp4
+*.wav
+*.mp3
+*.f32

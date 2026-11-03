@@ -1,0 +1,728 @@
+[
+ {
+  "beat": 1,
+  "time": 0.469,
+  "sound": "whoosh/fs-169867-swoosh.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 3,
+  "time": 1.406,
+  "sound": "pop/fs-824189-pop-in-sfx.ogg",
+  "gainDb": -7
+ },
+ {
+  "beat": 3.1,
+  "time": 1.453,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -13
+ },
+ {
+  "beat": 3.45,
+  "time": 1.617,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -13
+ },
+ {
+  "beat": 4,
+  "time": 1.875,
+  "sound": "kit/click.ogg",
+  "gainDb": -5
+ },
+ {
+  "beat": 5.75,
+  "time": 2.695,
+  "sound": "kit/pop.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 6,
+  "time": 2.813,
+  "sound": "kit/click.ogg",
+  "gainDb": -4
+ },
+ {
+  "beat": 6,
+  "time": 2.813,
+  "sound": "ui-blip/kenney-digital-twotone1.ogg",
+  "gainDb": -13
+ },
+ {
+  "beat": 6.25,
+  "time": 2.93,
+  "sound": "transition/fs-786514-swoosh-v2.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 6.9,
+  "time": 3.234,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -13
+ },
+ {
+  "beat": 7.3,
+  "time": 3.422,
+  "sound": "kit/tick.ogg",
+  "gainDb": -17
+ },
+ {
+  "beat": 7.5,
+  "time": 3.516,
+  "sound": "kit/tick.ogg",
+  "gainDb": -17
+ },
+ {
+  "beat": 7.7,
+  "time": 3.609,
+  "sound": "kit/tick.ogg",
+  "gainDb": -17
+ },
+ {
+  "beat": 7.9,
+  "time": 3.703,
+  "sound": "kit/tick.ogg",
+  "gainDb": -17
+ },
+ {
+  "beat": 8.1,
+  "time": 3.797,
+  "sound": "kit/tick.ogg",
+  "gainDb": -17
+ },
+ {
+  "beat": 8.3,
+  "time": 3.891,
+  "sound": "kit/tick.ogg",
+  "gainDb": -17
+ },
+ {
+  "beat": 8.5,
+  "time": 3.984,
+  "sound": "kit/tick.ogg",
+  "gainDb": -17
+ },
+ {
+  "beat": 9,
+  "time": 4.219,
+  "sound": "kit/click.ogg",
+  "gainDb": -5
+ },
+ {
+  "beat": 9.02,
+  "time": 4.228,
+  "sound": "ding/fs-634690-lil-pip.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 10,
+  "time": 4.688,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 10.2,
+  "time": 4.781,
+  "sound": "kit/tick.ogg",
+  "gainDb": -18
+ },
+ {
+  "beat": 10.36,
+  "time": 4.856,
+  "sound": "kit/tick.ogg",
+  "gainDb": -18
+ },
+ {
+  "beat": 10.52,
+  "time": 4.931,
+  "sound": "kit/tick.ogg",
+  "gainDb": -18
+ },
+ {
+  "beat": 10.68,
+  "time": 5.006,
+  "sound": "kit/tick.ogg",
+  "gainDb": -18
+ },
+ {
+  "beat": 10.84,
+  "time": 5.081,
+  "sound": "kit/tick.ogg",
+  "gainDb": -18
+ },
+ {
+  "beat": 11,
+  "time": 5.156,
+  "sound": "kit/tick.ogg",
+  "gainDb": -18
+ },
+ {
+  "beat": 11.16,
+  "time": 5.231,
+  "sound": "kit/tick.ogg",
+  "gainDb": -18
+ },
+ {
+  "beat": 11,
+  "time": 5.156,
+  "sound": "kit/click.ogg",
+  "gainDb": -5
+ },
+ {
+  "beat": 11.02,
+  "time": 5.166,
+  "sound": "ding/fs-634690-lil-pip.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 12,
+  "time": 5.625,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 12.2,
+  "time": 5.719,
+  "sound": "kit/tick.ogg",
+  "gainDb": -16
+ },
+ {
+  "beat": 12.399999999999999,
+  "time": 5.812,
+  "sound": "kit/tick.ogg",
+  "gainDb": -16
+ },
+ {
+  "beat": 12.6,
+  "time": 5.906,
+  "sound": "kit/tick.ogg",
+  "gainDb": -16
+ },
+ {
+  "beat": 12.799999999999999,
+  "time": 6,
+  "sound": "kit/tick.ogg",
+  "gainDb": -16
+ },
+ {
+  "beat": 13,
+  "time": 6.094,
+  "sound": "kit/click.ogg",
+  "gainDb": -5
+ },
+ {
+  "beat": 13.02,
+  "time": 6.103,
+  "sound": "ding/fs-634690-lil-pip.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 14,
+  "time": 6.563,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 13.8,
+  "time": 6.469,
+  "sound": "pop/fs202230.ogg",
+  "gainDb": -11
+ },
+ {
+  "beat": 13.98,
+  "time": 6.553,
+  "sound": "pop/fs202230.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 14.16,
+  "time": 6.638,
+  "sound": "pop/fs202230.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 14.5,
+  "time": 6.797,
+  "sound": "click/kenney-interface-select-002.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 14.6,
+  "time": 6.844,
+  "sound": "transition/fs-702773-swipe-wav.ogg",
+  "gainDb": -13
+ },
+ {
+  "beat": 15.45,
+  "time": 7.242,
+  "sound": "impact/kenney-impact-impactsoft-heavy-000.ogg",
+  "gainDb": -7
+ },
+ {
+  "beat": 15.75,
+  "time": 7.383,
+  "sound": "ding/kenney-interface-confirmation-001.ogg",
+  "gainDb": -11
+ },
+ {
+  "beat": 16,
+  "time": 7.5,
+  "sound": "transition/fs-786514-swoosh-v2.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 17,
+  "time": 7.969,
+  "sound": "transition/fs-850347-swipe-various.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 17.5,
+  "time": 8.203,
+  "sound": "transition/fs-850347-swipe-various.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 19,
+  "time": 8.906,
+  "sound": "ui-blip/kenney-ui-rollover2.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 20,
+  "time": 9.375,
+  "sound": "kit/pop.ogg",
+  "gainDb": -11
+ },
+ {
+  "beat": 21,
+  "time": 9.844,
+  "sound": "ui-blip/kenney-ui-rollover3.ogg",
+  "gainDb": -15
+ },
+ {
+  "beat": 22,
+  "time": 10.313,
+  "sound": "kit/click.ogg",
+  "gainDb": -4
+ },
+ {
+  "beat": 24,
+  "time": 11.25,
+  "sound": "riser/fs-685256-riser-sound-effect-short-wav.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 24,
+  "time": 11.25,
+  "sound": "kit/impact.ogg",
+  "gainDb": -3
+ },
+ {
+  "beat": 24,
+  "time": 11.25,
+  "sound": "kit/whoosh.ogg",
+  "gainDb": -8
+ },
+ {
+  "beat": 24,
+  "time": 11.25,
+  "sound": "pop/fs202230.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 24.22,
+  "time": 11.353,
+  "sound": "pop/fs202230.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 24.44,
+  "time": 11.456,
+  "sound": "pop/fs202230.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 24.66,
+  "time": 11.559,
+  "sound": "pop/fs202230.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 25.85,
+  "time": 12.117,
+  "sound": "pop/fs-258269-mouth-pop.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 26.6,
+  "time": 12.469,
+  "sound": "transition/kenney-interface-maximize-006.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 27,
+  "time": 12.656,
+  "sound": "kit/tick.ogg",
+  "gainDb": -15
+ },
+ {
+  "beat": 27.2,
+  "time": 12.75,
+  "sound": "kit/tick.ogg",
+  "gainDb": -15
+ },
+ {
+  "beat": 27.4,
+  "time": 12.844,
+  "sound": "kit/tick.ogg",
+  "gainDb": -15
+ },
+ {
+  "beat": 27.6,
+  "time": 12.938,
+  "sound": "kit/tick.ogg",
+  "gainDb": -15
+ },
+ {
+  "beat": 28,
+  "time": 13.125,
+  "sound": "kit/click.ogg",
+  "gainDb": -4
+ },
+ {
+  "beat": 28.25,
+  "time": 13.242,
+  "sound": "ui-blip/kenney-ui-rollover3.ogg",
+  "gainDb": -13
+ },
+ {
+  "beat": 28.45,
+  "time": 13.336,
+  "sound": "kit/pop.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 28.75,
+  "time": 13.477,
+  "sound": "click/kenney-interface-select-002.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 29,
+  "time": 13.594,
+  "sound": "transition/kenney-interface-scroll-001.ogg",
+  "gainDb": -14
+ },
+ {
+  "beat": 30,
+  "time": 14.063,
+  "sound": "ui-blip/kenney-digital-pepsound2.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 31,
+  "time": 14.531,
+  "sound": "ui-blip/kenney-digital-pepsound2.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 32,
+  "time": 15,
+  "sound": "whoosh/fs-264777-swoosh.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 33,
+  "time": 15.469,
+  "sound": "pop/fs-824189-pop-in-sfx.ogg",
+  "gainDb": -8
+ },
+ {
+  "beat": 34,
+  "time": 15.938,
+  "sound": "transition/kenney-interface-maximize-005.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 35,
+  "time": 16.406,
+  "sound": "impact/kenney-impact-impactsoft-heavy-000.ogg",
+  "gainDb": -13
+ },
+ {
+  "beat": 35.3,
+  "time": 16.547,
+  "sound": "kit/whoosh.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 36,
+  "time": 16.875,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 36.5,
+  "time": 17.109,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 37,
+  "time": 17.344,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 37.4,
+  "time": 17.531,
+  "sound": "kit/tick.ogg",
+  "gainDb": -16
+ },
+ {
+  "beat": 37.58,
+  "time": 17.616,
+  "sound": "kit/tick.ogg",
+  "gainDb": -16
+ },
+ {
+  "beat": 37.76,
+  "time": 17.7,
+  "sound": "kit/tick.ogg",
+  "gainDb": -16
+ },
+ {
+  "beat": 37.94,
+  "time": 17.784,
+  "sound": "kit/tick.ogg",
+  "gainDb": -16
+ },
+ {
+  "beat": 38,
+  "time": 17.813,
+  "sound": "kit/click.ogg",
+  "gainDb": -5
+ },
+ {
+  "beat": 38.02,
+  "time": 17.822,
+  "sound": "ui-blip/kenney-digital-twotone2.ogg",
+  "gainDb": -13
+ },
+ {
+  "beat": 39,
+  "time": 18.281,
+  "sound": "kit/click.ogg",
+  "gainDb": -5
+ },
+ {
+  "beat": 39.02,
+  "time": 18.291,
+  "sound": "ui-blip/kenney-digital-twotone2.ogg",
+  "gainDb": -13
+ },
+ {
+  "beat": 40,
+  "time": 18.75,
+  "sound": "kit/click.ogg",
+  "gainDb": -5
+ },
+ {
+  "beat": 40.02,
+  "time": 18.759,
+  "sound": "transition/kenney-interface-maximize-005.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 41,
+  "time": 19.219,
+  "sound": "transition/fs-702773-swipe-wav.ogg",
+  "gainDb": -11
+ },
+ {
+  "beat": 41.5,
+  "time": 19.453,
+  "sound": "typing/fs-511418-data-reveal-sound.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 42,
+  "time": 19.688,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 42,
+  "time": 19.688,
+  "sound": "ui-blip/kenney-ui-rollover2.ogg",
+  "gainDb": -14
+ },
+ {
+  "beat": 42.5,
+  "time": 19.922,
+  "sound": "kit/pop.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 43,
+  "time": 20.156,
+  "sound": "kit/pop.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 43.5,
+  "time": 20.391,
+  "sound": "kit/pop.ogg",
+  "gainDb": -10
+ },
+ {
+  "beat": 45,
+  "time": 21.094,
+  "sound": "transition/fs-786514-swoosh-v2.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 45.6,
+  "time": 21.375,
+  "sound": "kit/click.ogg",
+  "gainDb": -5
+ },
+ {
+  "beat": 45.62,
+  "time": 21.384,
+  "sound": "ding/kenney-interface-confirmation-002.ogg",
+  "gainDb": -11
+ },
+ {
+  "beat": 46,
+  "time": 21.563,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 46.4,
+  "time": 21.75,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 46.5,
+  "time": 21.797,
+  "sound": "ding/kenney-interface-confirmation-002.ogg",
+  "gainDb": -11
+ },
+ {
+  "beat": 47.2,
+  "time": 22.125,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -14
+ },
+ {
+  "beat": 47.5,
+  "time": 22.266,
+  "sound": "kit/click.ogg",
+  "gainDb": -5
+ },
+ {
+  "beat": 47.52,
+  "time": 22.275,
+  "sound": "ding/kenney-interface-confirmation-002.ogg",
+  "gainDb": -11
+ },
+ {
+  "beat": 48.5,
+  "time": 22.734,
+  "sound": "ui-blip/kenney-digital-threetone1.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 50.5,
+  "time": 23.672,
+  "sound": "ding/kenney-interface-confirmation-002.ogg",
+  "gainDb": -11
+ },
+ {
+  "beat": 51.1,
+  "time": 23.953,
+  "sound": "ding/fs-571513-soft-notifications-bell-ding-d.ogg",
+  "gainDb": -8
+ },
+ {
+  "beat": 51.75,
+  "time": 24.258,
+  "sound": "kit/pop.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 52.25,
+  "time": 24.492,
+  "sound": "kit/whoosh.ogg",
+  "gainDb": -6
+ },
+ {
+  "beat": 52.25,
+  "time": 24.492,
+  "sound": "impact/fs524817.ogg",
+  "gainDb": -7
+ },
+ {
+  "beat": 52.75,
+  "time": 24.727,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -11
+ },
+ {
+  "beat": 53.25,
+  "time": 24.961,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -11
+ },
+ {
+  "beat": 55,
+  "time": 25.781,
+  "sound": "transition/fs-786514-swoosh-v2.ogg",
+  "gainDb": -8
+ },
+ {
+  "beat": 55.6,
+  "time": 26.063,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 56,
+  "time": 26.25,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -12
+ },
+ {
+  "beat": 58,
+  "time": 27.188,
+  "sound": "kit/click.ogg",
+  "gainDb": -4
+ },
+ {
+  "beat": 58.1,
+  "time": 27.234,
+  "sound": "kit/pop.ogg",
+  "gainDb": -9
+ },
+ {
+  "beat": 60,
+  "time": 28.125,
+  "sound": "whoosh/fs393811.ogg",
+  "gainDb": -13
+ },
+ {
+  "beat": 60.55,
+  "time": 28.383,
+  "sound": "pop/fs-824189-pop-in-sfx.ogg",
+  "gainDb": -8
+ },
+ {
+  "beat": 61.2,
+  "time": 28.688,
+  "sound": "whoosh/fs-169867-swoosh.ogg",
+  "gainDb": -9
+ }
+]
